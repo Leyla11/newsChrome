@@ -12,7 +12,9 @@ export const Explore = () => {
             <img src={Nov} alt="vember" />
             <img src={Sep} alt="tember" />
         </div>
-        <a href="view"><strong>View more v</strong></a>
+        <div className="btncenter">
+          <a href="view"><strong>View more v</strong></a>
+        </div>
     </div>
   )
 }
